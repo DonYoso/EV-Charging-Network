@@ -14,7 +14,7 @@ Sie enthaelt Cucumber, JUnit Platform und AssertJ fuer Fluent Assertions.
 
 ## Projekt in IntelliJ oeffnen
 
-1. Repository klonen: `https://github.com/moha98mm12ad-lgtm/EV-Charging-Network.git`.
+1. Repository klonen: `https://github.com/DonYoso/EV-Charging-Network.git`.
 2. Den Repository-Ordner in IntelliJ oeffnen und `pom.xml` als Maven-Projekt laden.
 3. Unter **File > Project Structure > Project SDK** ein OpenJDK 25 auswaehlen
    oder mit **Add SDK > Download JDK** installieren.
